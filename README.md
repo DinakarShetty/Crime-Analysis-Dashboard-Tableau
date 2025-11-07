@@ -51,7 +51,7 @@ Derived fields include:
 - Displays **crime count by category** (Theft, Battery, etc.).  
 - Shows **current year cases** and **recent incidents**.  
 
-![Overall Crime Analysis](https://github.com/yourusername/Crime-Analysis-Tableau/blob/main/Screenshots/Crime%20Analysis%20Project1.jpg)
+![Overall Crime Analysis](https://github.com/DinakarShetty/Crime-Analysis-Dashboard-Tableau/blob/main/Crime%20Analysis%20Project1.jpg)
 
 ---
 
@@ -59,7 +59,7 @@ Derived fields include:
 - Shows crimes by **day of the week** and **hour of the day**.  
 - Identifies time blocks (Morning, Afternoon, Evening) with high activity.  
 
-![Time Period Analysis](https://github.com/yourusername/Crime-Analysis-Tableau/blob/main/Screenshots/Crime%20Analysis%20Project2.jpg)
+![Time Period Analysis](https://github.com/DinakarShetty/Crime-Analysis-Dashboard-Tableau/blob/main/Crime%20Analysis%20Project2.jpg)
 
 ---
 
@@ -67,7 +67,7 @@ Derived fields include:
 - Displays **year-over-year** and **quarterly trends**.  
 - Tracks decline in crime rate after 2019.  
 
-![Trend Analysis](https://github.com/yourusername/Crime-Analysis-Tableau/blob/main/Screenshots/Crime%20Analysis%20Project3.jpg)
+![Trend Analysis](https://github.com/DinakarShetty/Crime-Analysis-Dashboard-Tableau/blob/main/Crime%20Analysis%20Project3.jpg)
 
 ---
 
@@ -75,7 +75,7 @@ Derived fields include:
 - Ranks **top 10 crimes by arrest ratio**.  
 - Compares **arrested vs non-arrested case volumes**.  
 
-![Comparative Analysis](https://github.com/yourusername/Crime-Analysis-Tableau/blob/main/Screenshots/Crime%20Analysis%20Project4.jpg)
+![Comparative Analysis](https://github.com/DinakarShetty/Crime-Analysis-Dashboard-Tableau/blob/main/Crime%20Analysis%20Project4.jpg)
 
 ---
 
@@ -96,13 +96,9 @@ Derived fields include:
 
 ---
 
-## 🗃️ Repository Structure  
-
----
-
 ## 🔗 Live Dashboard  
 
-[🔍 **View on Tableau Public**](https://public.tableau.com/app/profile/yourprofile)  
+[🔍 **View on Tableau Public**](https://public.tableau.com/app/profile/dinakar.shetty)  
 
 ---
 
